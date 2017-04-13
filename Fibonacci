@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void) {
+  printf("fibonacci\n");
+  printf("THis is kinda cool\n");
+  return 0;
+}
